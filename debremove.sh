@@ -2,7 +2,7 @@
 
 # Remover Aplicativos desnecessários
 
-echo "Iniciando Script..."
+echo "Starting script..."
 
 remo_apps=(
     gnome-contacts
@@ -23,4 +23,4 @@ remo_apps=(
 sudo apt remove "${remo_apps[@]}" -y && \
 sudo apt autoremove -y
 
-echo "Script finalizado! Obrigado por usar esse script!"
+echo "Script completed successfully"
