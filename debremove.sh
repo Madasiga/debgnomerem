@@ -15,6 +15,10 @@ remo_apps=(
     gnome-connections
     gnome-keyring
     gnome-sound-recorder
+    gnome-font-viewer
+    ibus
+    malcontent
+    yelp
     shotwell
     evolution
     libreoffice-common
